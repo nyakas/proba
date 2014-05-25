@@ -1,7 +1,7 @@
 package math;
 
 /**
- * Class for representing fractions that are not reduced automatically.
+ * Class for representing fractions that are not reduced automatically. adasdasdasdasdsadsadsadsadsadasdasdsadasdasdasdasdasdsads
  */
 public class Fraction extends Number implements Cloneable {
 
