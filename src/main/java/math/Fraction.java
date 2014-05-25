@@ -115,7 +115,7 @@ public class Fraction extends Number implements Cloneable {
 	}
 
 	/**
-	 * Adds a fraction to this fraction.
+	 * Adds a fraction to this fraction.zghjghjgjhghjgjhghjgjhgjhgjhg
 	 *
 	 * @param fraction the fraction to add
 	 * @return a fraction that represents the result
